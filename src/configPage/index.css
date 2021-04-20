@@ -1,0 +1,18 @@
+/* @font-face {
+  font-family: Montserrat;
+  src: url("./font/Montserrat-Regular.ttf");
+  src: url("./font/Montserrat-Bold.ttf");
+} */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat";
+}
+.grecaptcha-badge {
+  opacity: 0;
+}
